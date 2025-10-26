@@ -1,0 +1,7 @@
+tabula-py
+pdfplumber
+pandas
+numpy
+pathlib
+camelot
+sqlalchemy
